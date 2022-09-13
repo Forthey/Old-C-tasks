@@ -1,0 +1,4 @@
+﻿ANIM.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: "vc120.pdb" PDB не найден с "glew32s.lib(glew.obj)" или на "C:\Users\0Fort\Downloads\Мои проги\cgsg103\ND4\T47ANIM\Debug\vc120.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  T47ANIM.vcxproj -> C:\Users\0Fort\Downloads\Мои проги\cgsg103\ND4\T47ANIM\Debug\T47ANIM.exe
