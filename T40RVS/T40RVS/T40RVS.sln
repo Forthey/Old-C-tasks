@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "T40RVS", "T40RVS.vcproj", "{BFC07329-DD96-47AE-8CAA-D8382F4CF4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC07329-DD96-47AE-8CAA-D8382F4CF4CC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFC07329-DD96-47AE-8CAA-D8382F4CF4CC}.Debug|Win32.Build.0 = Debug|Win32
+		{BFC07329-DD96-47AE-8CAA-D8382F4CF4CC}.Release|Win32.ActiveCfg = Release|Win32
+		{BFC07329-DD96-47AE-8CAA-D8382F4CF4CC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
